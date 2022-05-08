@@ -7,5 +7,5 @@ SpeedTest Website: https://thedoggybrad.github.io/ADKILLED-OPENSPEEDTEST.COM/
 Powered by https://openspeedtest.com
 
 <br>
-License: https://raw.githubusercontent.com/thedoggybrad/speedtest/main/LICENSE
+License: https://raw.githubusercontent.com/thedoggybrad/ADKILLED-OPENSPEEDTEST.COM/main/LICENSE
 
